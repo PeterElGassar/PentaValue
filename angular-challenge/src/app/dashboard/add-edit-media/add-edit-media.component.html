@@ -1,0 +1,77 @@
+<!-- <p-toast position="top-center" key="addSpec"></p-toast> -->
+<p-toast position="top-right" key="ImageSaveSuccess"></p-toast>
+
+<form      [formGroup]="meidaForm" (ngSubmit)="(this.meidaForm.get('id').value == 0) ? addMedia() : updateMedia()">
+    <div class="row">
+    
+      <div class="col-md-10 mx-auto">
+       
+          <div class="form-group">
+
+            <!-- <span class="p-float-label  mt-4">
+              <input 
+              ngModel
+              required
+              #NameTemp="ngModel"
+              class="p-inputtext-md" 
+              name="this.last_name"
+               type="text"
+               pInputText 
+               [(ngModel)]="this.media"/>
+    
+              <label  for="float-input"> التخصص</label>
+            </span> -->
+
+
+           
+
+
+          </div>
+
+          <div class="form-group">
+            <label for="img" class="form-label"  >Image url</label>
+            <input type="text" class="form-control" formControlName="image" id="img">
+          </div>
+     
+          <div class="form-group">
+            <label for="video" class="form-label"  >Video url</label>
+            <input type="text" class="form-control" formControlName="video" id="video">
+          </div>
+
+          <div class="form-group">
+            <label for="from_time" class="form-label">From Time</label>
+            <!-- <input  type="date" class="form-control" formControlName="from_time" id="from_time"> -->
+            <!-- <ngx-mat-timepicker formControlName="from_time"></ngx-mat-timepicker> -->
+            <p-calendar [hourFormat]="12" formControlName="from_time" [showIcon]="true" [showTime]="true" inputId="icon"></p-calendar>
+
+          </div>
+
+
+          <div class="form-group">
+            <label for="to_time" class="form-label">To Time</label>
+            <!-- <input type="datetime" class="form-control" formControlName="to_time" id="to_time"> -->
+            <p-calendar [hourFormat]="12" formControlName="to_time" [showIcon]="true" [showTime]="true" inputId="icon"></p-calendar>
+
+          </div>
+
+          <!-- npm install primeng@11.4.5 --save -->
+          
+          <div class="col-md-12 text-center">      
+           
+              
+            <button [disabled]="!meidaForm.valid"  *ngIf="this.meidaForm.get('id').value == 0" class="btn btn-primary">
+              Create New
+            </button>
+            
+            <button [disabled]="!meidaForm.valid"  *ngIf="this.meidaForm.get('id').value > 0" class="btn btn-primary">
+              Save Changes
+            </button>        
+          </div>
+
+
+        </div>
+    </div>
+  
+  
+  </form>
+  

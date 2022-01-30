@@ -1,0 +1,761 @@
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.exe
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.csprojAssemblyReference.cache
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfoInputs.cache
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfo.cs
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.RazorTargetAssemblyInfo.cache
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.Manifest.cache
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.xml
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.csproj.CopyComplete
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.deps.json
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.json
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.dev.json
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.pdb
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.pdb
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.genruntimeconfig.cache
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.csproj.CoreCompileInputs.cache
+D:\programing course\Final Projects\ResourcesOne Portal Angular\API\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.MvcApplicationPartsAssemblyInfo.cache
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\Api.exe
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\Api.deps.json
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.json
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.dev.json
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\Api.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\Api.pdb
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\obj\Debug\netcoreapp3.1\Api.csproj.AssemblyReference.cache
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\obj\Debug\netcoreapp3.1\Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\obj\Debug\netcoreapp3.1\Api.AssemblyInfoInputs.cache
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\obj\Debug\netcoreapp3.1\Api.AssemblyInfo.cs
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\obj\Debug\netcoreapp3.1\Api.csproj.CoreCompileInputs.cache
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\obj\Debug\netcoreapp3.1\Api.MvcApplicationPartsAssemblyInfo.cache
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.Manifest.cache
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.xml
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Api.styles.css
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\obj\Debug\netcoreapp3.1\Api.RazorTargetAssemblyInfo.cache
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\obj\Debug\netcoreapp3.1\Api.csproj.CopyComplete
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\obj\Debug\netcoreapp3.1\Api.dll
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\obj\Debug\netcoreapp3.1\Api.pdb
+D:\peter web developer\ResourcesOne(New Website Angular)\API\core_api\api\obj\Debug\netcoreapp3.1\Api.genruntimeconfig.cache
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\Api.exe
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\Api.deps.json
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.json
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.dev.json
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\Api.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\Api.pdb
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\PortalNewProject\core_api\api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PortalNewProject\core_api\api\obj\Debug\netcoreapp3.1\Api.csproj.AssemblyReference.cache
+D:\PortalNewProject\core_api\api\obj\Debug\netcoreapp3.1\Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\PortalNewProject\core_api\api\obj\Debug\netcoreapp3.1\Api.AssemblyInfoInputs.cache
+D:\PortalNewProject\core_api\api\obj\Debug\netcoreapp3.1\Api.AssemblyInfo.cs
+D:\PortalNewProject\core_api\api\obj\Debug\netcoreapp3.1\Api.csproj.CoreCompileInputs.cache
+D:\PortalNewProject\core_api\api\obj\Debug\netcoreapp3.1\Api.MvcApplicationPartsAssemblyInfo.cache
+D:\PortalNewProject\core_api\api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.Manifest.cache
+D:\PortalNewProject\core_api\api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.xml
+D:\PortalNewProject\core_api\api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Api.styles.css
+D:\PortalNewProject\core_api\api\obj\Debug\netcoreapp3.1\Api.RazorTargetAssemblyInfo.cache
+D:\PortalNewProject\core_api\api\obj\Debug\netcoreapp3.1\Api.csproj.CopyComplete
+D:\PortalNewProject\core_api\api\obj\Debug\netcoreapp3.1\Api.dll
+D:\PortalNewProject\core_api\api\obj\Debug\netcoreapp3.1\Api.pdb
+D:\PortalNewProject\core_api\api\obj\Debug\netcoreapp3.1\Api.genruntimeconfig.cache
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.exe
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.deps.json
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.json
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.dev.json
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.pdb
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.csprojAssemblyReference.cache
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfoInputs.cache
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfo.cs
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.csproj.CoreCompileInputs.cache
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.MvcApplicationPartsAssemblyInfo.cache
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.RazorTargetAssemblyInfo.cache
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.csproj.CopyComplete
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.Manifest.cache
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.xml
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.dll
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.pdb
+D:\سورسات من الشركة\Portal Angular\28-11-2021 portal-angulr\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.genruntimeconfig.cache
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\Api.exe
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\Api.deps.json
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.json
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.dev.json
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\Api.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\Api.pdb
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\obj\Debug\netcoreapp3.1\Api.csproj.AssemblyReference.cache
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\obj\Debug\netcoreapp3.1\Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfoInputs.cache
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfo.cs
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\obj\Debug\netcoreapp3.1\Api.csproj.CoreCompileInputs.cache
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\obj\Debug\netcoreapp3.1\Api.MvcApplicationPartsAssemblyInfo.cache
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.Manifest.cache
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.xml
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Api.styles.css
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\obj\Debug\netcoreapp3.1\Api.RazorTargetAssemblyInfo.cache
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\obj\Debug\netcoreapp3.1\Api.csproj.CopyComplete
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\obj\Debug\netcoreapp3.1\Api.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\obj\Debug\netcoreapp3.1\Api.pdb
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\obj\Debug\netcoreapp3.1\Api.genruntimeconfig.cache
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\سورسات من البيت\Core_Api(from-home 29-11)\Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.exe
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.deps.json
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.json
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.dev.json
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.pdb
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.csprojAssemblyReference.cache
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfoInputs.cache
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfo.cs
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.csproj.CoreCompileInputs.cache
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.MvcApplicationPartsAssemblyInfo.cache
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.RazorTargetAssemblyInfo.cache
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.csproj.CopyComplete
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.Manifest.cache
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.xml
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.pdb
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.genruntimeconfig.cache
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.exe
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.deps.json
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.json
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.dev.json
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.pdb
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.csproj.AssemblyReference.cache
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfoInputs.cache
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfo.cs
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.csproj.CoreCompileInputs.cache
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.MvcApplicationPartsAssemblyInfo.cache
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.Manifest.cache
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.xml
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Api.styles.css
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.RazorTargetAssemblyInfo.cache
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.csproj.CopyComplete
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.pdb
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.genruntimeconfig.cache
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\سورسات من البيت\New Portal Angular (22-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\سورسات من الشركة\Portal Angular\9-12-2021 new portal\Core_Api\Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.exe
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.deps.json
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.json
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.dev.json
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.pdb
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.csprojAssemblyReference.cache
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfoInputs.cache
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfo.cs
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.csproj.CoreCompileInputs.cache
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.MvcApplicationPartsAssemblyInfo.cache
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.RazorTargetAssemblyInfo.cache
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.csproj.CopyComplete
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.Manifest.cache
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.xml
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.dll
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.pdb
+D:\سورسات من الشركة\Portal Angular\new portal(23-12-2021 )\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.genruntimeconfig.cache
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.exe
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.deps.json
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.json
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.dev.json
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.pdb
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.csproj.AssemblyReference.cache
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfoInputs.cache
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfo.cs
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.csproj.CoreCompileInputs.cache
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.MvcApplicationPartsAssemblyInfo.cache
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.Manifest.cache
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.xml
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Api.styles.css
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.RazorTargetAssemblyInfo.cache
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.csproj.CopyComplete
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.dll
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.pdb
+D:\سورسات من البيت\New Portal (25-12-2021)\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.genruntimeconfig.cache
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.exe
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.deps.json
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.json
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.dev.json
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.pdb
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfoInputs.cache
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfo.cs
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.RazorTargetAssemblyInfo.cache
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.csproj.CopyComplete
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.Manifest.cache
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.xml
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.pdb
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.genruntimeconfig.cache
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Google.Apis.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.csproj.CoreCompileInputs.cache
+D:\سورسات من الشركة\Portal Angular\29-12-2021(new portal)\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.MvcApplicationPartsAssemblyInfo.cache
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.exe
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.deps.json
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.json
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.dev.json
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Api.pdb
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Google.Apis.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\programing course\PentaValue\Core_Api\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\programing course\PentaValue\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.csprojAssemblyReference.cache
+D:\programing course\PentaValue\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfoInputs.cache
+D:\programing course\PentaValue\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfo.cs
+D:\programing course\PentaValue\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.csproj.CoreCompileInputs.cache
+D:\programing course\PentaValue\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.MvcApplicationPartsAssemblyInfo.cache
+D:\programing course\PentaValue\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.RazorTargetAssemblyInfo.cache
+D:\programing course\PentaValue\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.csproj.CopyComplete
+D:\programing course\PentaValue\Core_Api\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.Manifest.cache
+D:\programing course\PentaValue\Core_Api\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.xml
+D:\programing course\PentaValue\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.dll
+D:\programing course\PentaValue\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.pdb
+D:\programing course\PentaValue\Core_Api\Api\obj\Debug\netcoreapp3.1\Api.genruntimeconfig.cache
